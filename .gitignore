@@ -1,0 +1,14 @@
+datasets/
+dataset/
+models/
+model/
+nas_random_search/
+smbo_results/
+venv/
+*.csv
+*.h5
+*.keras
+*.json
+*.xlsx
+*.zip
+
