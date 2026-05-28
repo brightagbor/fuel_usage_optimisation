@@ -352,8 +352,9 @@ def safe_predict(X_raw):
 st.markdown("""
 <div class="masthead">
     <div class="masthead-eyebrow">Bayesian Optimisation · Ensemble ML</div>
-    <div class="masthead-title">Auto<span>MPG</span></div>
-    <div class="masthead-sub">Fuel efficiency prediction & optimal design finder</div>
+    <div class="masthead-title">Department of Computer Engineering<span></span></div>
+    <div class="masthead-sub">Federal Polytechnic Nekede, Owerri<span></span></div>
+    <div class="masthead-sub">Automatic Fuel Efficiency Prediction & Optimal Design Finder</div>
 </div>
 """, unsafe_allow_html=True)
 

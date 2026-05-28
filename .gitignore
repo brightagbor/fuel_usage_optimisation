@@ -4,6 +4,8 @@ models/
 model/
 nas_random_search/
 smbo_results/
+results/
+papers/
 venv/
 *.csv
 *.h5
@@ -11,4 +13,4 @@ venv/
 *.json
 *.xlsx
 *.zip
-
+*.png
